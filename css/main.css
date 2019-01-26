@@ -1,8 +1,153 @@
 @charset "utf-8";
 /* CSS Document */
 
-.hidden
-{
+.hidden{
 	display: none;
+}
+
+body{
+	font-family: 'Merriweather', "Times New Roman", serif;
+	background-color: white;
+	font-size: 50px;
+}
+
+a{
+	text-decoration: none;
+	text-decoration-color: black;
+}
+
+#topBar{
+	display: flex;
+	background-color: #f7931e;
+	height: 25px;
+}
+
+#logo{
+	padding-left: 20px;
+}
+#container{
+	width: 1000px;
+	margin: 0 auto;
+	background-color: white;
+	box-shadow: 5px 10px 9px #dddddd;
+}
+
+#mainHeader{
+	height: 200px;
+	background-color: white;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+}
+
+#mainNav {
+	height: 20px;
+	width: 500px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-size: 16px;
+
+	background: #f7931e; /* Old browsers */
+background: -moz-linear-gradient(top, #f7931e 0%, #f4b266 99%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #f7931e 0%,#f4b266 99%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #f7931e 0%,#f4b266 99%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7931e', endColorstr='#f4b266',GradientType=0 ); /* IE6-9 */
+
+}
+
+#mainNav ul {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+}
+
+#mainNav ul li a 
+{
+	display: block;
+	text-decoration: none;
+	margin-left: 30px;
+	margin-top: 10px;
+	padding-top: 20px;
+	padding: 10px;
+	color: #d2e2fd;
+}
+
+#mainNav ul li:hover
+{
+	background-color: #d2e2fd;
+	padding-top:5px;
+	padding-left: 5px;
+	padding-bottom: 5px;
+	padding-right: 5px;
+	border-radius: 10px;
+	color: #black;
+	text-transform: uppercase;
+	transition: all .5s ease;
+}
+
+
+#focusArea{
+	margin: 30px;
+}
+
+#focusArea h2{
+	font-size: 30px;
+	padding-left:30px;
+}
+
+#iconMenu object{
+	border: 5px solid;
+	border-radius: 20px;
+	border-color: #d2e2fd;
+	padding: 10px;
+	width: 150px;
+	height: 150px;
+	margin: 30px;
+}
+
+.iconMenu{
+	display: flex;
+	margin-top: 20px;
+	justify-content: space-between;
+}
+
+
+footer{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	background-color: #d2e2fd;
+	display: flex;
+	align-items: center; 
+	height: 75px;
+}
+
+
+footer ul li{
+	color: black;
+	font-size: 16px;
+	margin: 20px;
+	display: inline;
+}
+
+footer ul li:hover {
+	background-color: #f7931e;
+	padding-top:5px;
+	padding-left: 5px;
+	padding-bottom: 5px;
+	padding-right: 5px;
+	border-radius: 10px;
+	color: #fff;
+	text-transform: uppercase;
+	transition: all .5s ease;
+}
+
+#bottomBar {
+	display: block;
+	background-color: #f7931e;
+	height: 25px;
+
 }
 
