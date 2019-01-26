@@ -91,6 +91,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7931e', end
 
 #focusArea{
 	margin: 30px;
+	border: 5px solid;
+	border-radius:20px;
+	border-color: #d2e2fd;
 }
 
 #focusArea h2{

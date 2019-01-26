@@ -7,6 +7,9 @@
 	.st1{opacity:0.12;fill:#009EFF;}
 	.st2{fill:#F0DEB4;}
 	.st3{fill:none;stroke:#F0DEB4;stroke-miterlimit:10;}
+	.st0:hover {fill:#996D00;}
+
+	.st1:hover {fill:#000;}
 </style>
 <path id="champagneDrink" class="st0" d="M40.6,52.9c0.2-8.2-1.8-25.1-2.2-32.6c0,0-28.3,0-28.3,0.1c-1.1,7.3-2.5,22.8-2.5,32.2
 	c0,5,1,11.7,2.9,16.5c3.2,7.8,8.3,16.2,13.6,16.2c5.1,0,9.9-7.7,13.4-15.3C40.1,64.2,40.5,55.1,40.6,52.9z"/>
