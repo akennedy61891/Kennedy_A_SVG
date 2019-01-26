@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="wine" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 76.8 143" style="enable-background:new 0 0 76.8 143;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.12;fill:#009EFF;}
+	.st1{fill:#960000;}
+	.st2{fill:#6D0000;}
+</style>
+<g id="wineGlass_1_">
+	<path class="st0" d="M40.6,76.8v59.8c14.7,0.2,27.3,2.7,34.3,6.4h-73c7-3.7,19.7-6.2,34.3-6.4V76.8C16.5,75.7,0.6,59.5,0,39.5
+		c0-0.7,0-1.4,0.1-2.1L6,0h64.8l5.8,36.7c0.1,1.4,0.2,2.8,0.1,4.1C75.5,60.2,60,75.7,40.6,76.8z"/>
+	<path class="st0" d="M42.7,73.7c16.6-5.5,24.9-18.5,26.1-36.9c0.1-1.4,0-2.8-0.1-4.1L63.5,0h7.4l5.8,36.7c0.1,1.4,0.2,2.8,0.1,4.1
+		C75.5,60.1,60,75.7,40.6,76.8h-4.4c-1.2-0.1-2.5-0.2-3.6-0.4"/>
+</g>
+<g id="wineDrink">
+	<path class="st1" d="M71.8,39C71,57.4,56.3,72,38.4,72S5.8,57.4,4.9,39H71.8z"/>
+	<path class="st2" d="M71.8,39C71,57.4,56.3,72,38.4,72c-4.8,0-9.5-1.1-13.6-3l27-30H71.8z"/>
+</g>
+</svg>
