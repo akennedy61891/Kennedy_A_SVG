@@ -1,0 +1,73 @@
+M<!doctype html>
+<html lang=en>
+
+<head>
+	<meta charset="utf-8">
+		<title>
+			Iconica - Best Free Source for Icons!
+		</title>
+	<!--CSS RESET-->
+	<link rel="stylesheet" type="text/css" href="css/reset.css"> 
+	<!--CSS STYLING-->
+	<link rel="stylesheet" type="text/css" href="css/main.css"> 
+
+</head>
+
+<body>	
+<h1 class="hidden">Iconica</h1>
+	<div id='topBar'></div>
+	<div id="container">
+		<header id='mainHeader'>
+			<img src="images/logo.png" width="150" height="150">
+
+			<nav id='mainNav'>
+				<ul>
+					<a href="index.html"><li>Home</li></a>
+					<a href="#"><li>Categories</li></a>
+					<a href="#"><li>Gallery</li></a>
+					<a href="#"><li>About</li></a>
+				</ul>
+			</nav>
+		</header>	
+		<section id='mainArea'>
+			<h2>Popular Icons</h2>
+
+			<div id='iconArea'>
+				<div class='iconArea'>
+					<a href="#"><object data="images/icon1.svg" type="text/svg"></object></a>
+					<a href="#"><object data="images/icon2.svg" type="text/svg"></object></a>
+					<a href="#"><object data="images/icon3.svg" type="text/svg"></object></a>
+				</div>
+				<div class='iconArea'>
+					<a href="#"><object data="images/icon4.svg" type="text/svg"></object></a>
+					<a href="#"><object data="images/icon5.svg" type="text/svg"></object></a>
+					<a href="#"><object data="images/icon6.svg" type="text/svg"></object></a>
+				</div>
+			</div>
+		</section>
+
+		<footer>
+			<nav>
+				<ul>
+					<a href="index.html"><li>Home</li></a>
+					<a href="#"><li>Categories</li></a>
+					<a href="#"><li>Gallery</li></a>
+					<a href="#"><li>About</li></a>
+				</ul>
+			</nav>
+
+		</footer>
+
+
+	</div>
+<!--JAVASCRIPT LINK-->
+<script src="js/main.js" type="text/javascript"></script>
+</body>
+
+</html>erge branch 'dev.kennedy_svg'
+
+# Please enter a commit message to explain why this merge is necessary,
+# especially if it merges an updated upstream into a topic branch.
+#
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit.
