@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="martini" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 141" style="enable-background:new 0 0 100 141;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.12;fill:#009EFF;}
+	.st1{opacity:0.3;fill:#526600;}
+	.st2{fill:#A88629;}
+	.st3{fill:#BAB86C;}
+	.st4{fill:#A53229;stroke:#8A965C;stroke-width:0.25;stroke-miterlimit:10;}
+</style>
+<g id="martiniGlass">
+	<g id="glass_1_">
+		<path class="st0" d="M52.3,134.4c15.2,0.2,28.2,2.8,35.4,6.6H12.3c7.2-3.8,20.3-6.4,35.5-6.6V66.6L25,39.5L0,9.8h100L75,39.5
+			l-22.7,27V134.4z"/>
+	</g>
+	<polygon class="st0" points="100,9.8 75,39.5 50,69.3 45.5,63.9 45.6,63.8 45.9,64.1 70.9,34.4 91.5,9.8 	"/>
+	<polygon id="vermouth" class="st1" points="48.8,61 36.1,46.3 23.5,31.5 48.8,31.5 74.1,31.5 61.4,46.3 	"/>
+</g>
+<g id="olive_1_">
+	<g>
+		<path class="st2" d="M89.6,2.6c-2.7,3.4-5.5,6.7-8.2,10.1c-2.8,3.3-5.6,6.6-8.4,9.9c-2.9,3.2-5.7,6.5-8.6,9.7l-4.4,4.8
+			c-1.5,1.6-2.9,3.2-4.4,4.7c1.3-1.7,2.7-3.4,4.1-5.1l4.2-5c2.8-3.3,5.6-6.6,8.4-9.9c2.9-3.2,5.7-6.5,8.6-9.7
+			C83.7,8.9,86.6,5.7,89.6,2.6z"/>
+	</g>
+	<g id="olive">
+		<ellipse class="st3" cx="86.5" cy="5.8" rx="4.1" ry="5.3"/>
+		
+			<ellipse transform="matrix(3.194876e-02 -0.9995 0.9995 3.194876e-02 73.8787 95.3731)" class="st4" cx="86.2" cy="9.5" rx="0.8" ry="1.2"/>
+	</g>
+	<g>
+		<polygon class="st2" points="87.8,4 92.2,0 88.2,4.3 		"/>
+	</g>
+</g>
+</svg>
