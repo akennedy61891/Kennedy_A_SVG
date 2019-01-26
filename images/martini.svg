@@ -8,6 +8,9 @@
 	.st2{fill:#A88629;}
 	.st3{fill:#BAB86C;}
 	.st4{fill:#A53229;stroke:#8A965C;stroke-width:0.25;stroke-miterlimit:10;}
+
+	.st0:hover {fill:#ff7171;}
+	
 </style>
 <g id="martiniGlass">
 	<g id="glass_1_">

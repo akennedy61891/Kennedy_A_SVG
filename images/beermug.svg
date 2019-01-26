@@ -8,6 +8,8 @@
 	.st2{fill:none;stroke:#191919;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
 	.st3{fill:#E89E5B;stroke:#0F0F0F;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
 	.st4{fill:#F0DEB4;}
+
+	.st4:hover {fill:#ede9ff;}
 </style>
 <g id="mug">
 	<path class="st0" d="M102,74.4c0,14-11,25.4-24.9,26.1V93c9.7-0.6,17.4-8.7,17.4-18.6s-7.7-18-17.4-18.6v-7.5

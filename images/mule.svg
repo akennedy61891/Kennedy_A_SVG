@@ -13,6 +13,9 @@
 	.st7{fill:#FFFF73;}
 	.st8{fill:#5F8E0C;}
 	.st9{fill:#597C0B;}
+
+	.st2:hover {fill: brown;}
+
 </style>
 <g id="muleCup">
 	<ellipse id="muleLip" class="st0" cx="63" cy="20.2" rx="33.9" ry="3.9"/>

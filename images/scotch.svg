@@ -8,6 +8,8 @@
 	.st2{opacity:0.3;fill:#002B3A;}
 	.st3{opacity:0.2;fill:#002B3A;}
 	.st4{opacity:0.6;fill:#FFFFFF;}
+
+	.st2:hover {opacity:0.6;}
 </style>
 <polygon id="stirStick" class="st0" points="19.9,85.9 18.1,86.3 0,0.4 1.8,0 "/>
 <g id="scotchDrink">

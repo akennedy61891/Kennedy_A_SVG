@@ -8,6 +8,10 @@
 	.st2{opacity:0.4;fill:#FFFFFF;}
 	.st3{opacity:0.3;}
 	.st4{opacity:0.8;}
+
+	.st1:hover {opacity:0.8;}
+
+	.st2:hover {opacity:0.8;}
 </style>
 <g id="cocktailGlass_1_">
 	<path id="cocktailGlass" class="st0" d="M53,144.3H6.7c-3.7,0-6.7-3-6.7-6.7V12.9h59.6v124.7C59.6,141.3,56.6,144.3,53,144.3z"/>

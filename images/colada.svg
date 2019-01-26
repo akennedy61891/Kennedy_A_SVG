@@ -9,6 +9,8 @@
 	.st3{fill:#D27DFF;}
 	.st4{fill:#FFEB8A;}
 	.st5{fill:#FFFCE9;}
+
+	.st4:hover {opacity:0.2;}
 </style>
 <g id="coladaGlass">
 	<path id="glassHighlight" class="st0" d="M56.6,129.6c-8.5-2.6-7.9-11.4-8-22.9c-0.1-12,7.6-11.5,18.2-25

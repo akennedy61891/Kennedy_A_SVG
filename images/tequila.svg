@@ -7,6 +7,8 @@
 	.st1{fill:#E8E336;}
 	.st2{opacity:0.12;fill:#009EFF;}
 	.st3{opacity:0.5;fill:#C6A000;}
+
+	.st3:hover {opacity:0.8;}
 </style>
 <g id="tequilaLemon">
 	<g>

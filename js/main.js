@@ -10,3 +10,11 @@
 //console.log("Hello" + firstName);
 
 console.log("javascript linked up");
+
+let clickButton = document.querySelector("button");
+
+ function logBadge() {
+      console.log(this.button.id);
+    }
+
+clickButton.addEventListener("click", clickButton);
